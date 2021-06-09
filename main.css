@@ -5,7 +5,7 @@ h1 {
   margin-top: 20px;
 }
 body {
-  background-image: url(https://loveena28.github.io/MartialArts/background.jpg);
+  background-image: url("https://loveena28.github.io/MartialArts/background.jpg");
   background-size: 100% 100%;
   background-repeat: no-repeat;
   overflow: hidden;
